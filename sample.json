@@ -1,9 +1,0 @@
-{
-  "path": "nvim_buf/v1/first_file.proto",
-  "start_line": 3,
-  "start_column": 1,
-  "end_line": 3,
-  "end_column": 18,
-  "type": "PACKAGE_VERSION_SUFFIX",
-  "message": "Package name \"nvim_buf\" should be suffixed with a correctly formed version, such as \"nvim_buf.v1\"."
-}
