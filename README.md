@@ -1,5 +1,7 @@
 # Nvim Buf Lint
 
+![img](./asset/test.gif)
+
 ## Goals 🏃
 
 - Are you a developer that's actively working with Protobuf?
@@ -57,7 +59,7 @@ The `init()` function accepts these option parameters:
 
 ## Roadmap 🚀
 
--  Simple linting
+- ✅ Simple linting
 -  Toggle lint on save option
 -  Integrate with quickfix
 -  Inject diagnostic error message in all buffer (?)
